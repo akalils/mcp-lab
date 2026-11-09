@@ -1,0 +1,7 @@
+[mcp_servers.raguard]
+command = "/opt/anaconda3/envs/lisheng/bin/python"
+args = ["/Users/cwill/Project/mcp-lab/servers/mcp_server.py"]
+cwd = "/Users/cwill/Project/mcp-lab"
+
+[mcp_servers.raguard.tools.search_knowledge]
+approval_mode = "approve"

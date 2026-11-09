@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "raguard-learning": {
+            "command": "/opt/anaconda3/envs/lisheng/bin/python",
+            "args": ["/Users/cwill/Project/mcp-lab/servers/mcp_server.py"]
+        }
+    }
+}
